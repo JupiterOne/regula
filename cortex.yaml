@@ -4,9 +4,11 @@ info:
   description: Automatically generated package.json, please edit manually
   x-cortex-git:
     github:
-      repository: JupiterOne/regula
+      repository: JupiterOne/JupiterOne/regula
   x-cortex-owners:
     - type: group
       name: JupiterOne/sre
   x-cortex-service-groups: tier-4
   x-cortex-tag: regula
+  x-cortex-dependency:
+    - tag: base-deploy
