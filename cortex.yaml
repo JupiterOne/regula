@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Regula
+  title: regula
   description: Automatically generated package.json, please edit manually
   x-cortex-git:
     github:
